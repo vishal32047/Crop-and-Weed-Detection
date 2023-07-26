@@ -7,3 +7,5 @@ The objective of this project is to provide farmers with a reliable tool to enha
 During the first week, the project team conducted an in-depth literature review on crop and weed detection. The team identified key challenges and potential solutions and defined the project's scope and objectives.
 ### Week 2: Dataset Acquisition and Preprocessing
 In the second week, significant progress was made in acquiring a diverse dataset of agricultural images. Data preprocessing techniques, such as image resizing, data augmentation, and normalization, were applied to enhance the data quality for model development and training.
+### Week 3: Model Development and Initial Training
+Week 3 focused on model development, where the team explored various state-of-the-art convolutional neural network (CNN) architectures suitable for crop and weed detection. A specific architecture was selected, and initial training of the model commenced.
